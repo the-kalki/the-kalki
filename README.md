@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my Programming Skills.
 - 🌱 I’m currently learning C, Python, C++
 - 👯 I’m looking to collaborate on some open source projects!
-- 🤔 I’m looking for help with starting my cybersec carrear
+- 🤔 I'm looking for help with starting my cybersec career
 - 💬 Ask me about nothing O_O
 - 📫 How to reach me: https://linktr.ee/ikalki
 - 😄 Pronouns: He/Him
