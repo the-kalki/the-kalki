@@ -23,15 +23,3 @@
 <div align="center">
     <img src="https://leetcard.jacoblin.cool/prabhaw_kr?theme=dark&font=Fira%20Code&ext=heatmap&border_radius=20" alt="Leetcode Stats" style="max-width:100%; height:auto;" />
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/the-kalki/the-kalki/tree/master/0001-two-sum) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/the-kalki/the-kalki/tree/master/0001-two-sum) |
-<!---LeetCode Topics End-->
