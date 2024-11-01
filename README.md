@@ -6,9 +6,9 @@
 </div>
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=the-kalki&theme=cobalt&border_radius=20&show_icons=true&date_format=j%20M%5B%20Y%5D&background=193448&type=png" alt="GitHub Streak" style="max-width:100%; height:auto;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=the-kalki&show_icons=true&theme=cobalt&rank_icon=github&border_radius=20&type=png" alt="Readme Stats" style="max-width:100%; height:auto;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-kalki&layout=donut&theme=cobalt&border_radius=20&type=png" alt="Language Stats" style="max-width:100%; height:195px;" />
+    <img src="https://streak-stats.demolab.com?user=the-kalki&theme=cobalt&border_radius=20&show_icons=true&date_format=j%20M%5B%20Y%5D&background=193448" alt="GitHub Streak" style="max-width:100%; height:auto;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=the-kalki&show_icons=true&theme=cobalt&rank_icon=github&border_radius=20" alt="Readme Stats" style="max-width:100%; height:auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-kalki&layout=donut&theme=cobalt&border_radius=20" alt="Language Stats" style="max-width:100%; height:195px;" />
 </div>
 
 <br>
