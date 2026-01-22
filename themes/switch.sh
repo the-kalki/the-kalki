@@ -2,7 +2,7 @@
 
 # Theme Switcher Script for GitHub Profile README
 # Usage: ./switch.sh <theme_name>
-# Available themes: terminal, glassmorphism, neobrutalism, light
+# Available themes: terminal, glassmorphism, neobrutalism, light, bento, digital_garden
 
 THEME=$1
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
